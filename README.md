@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Hi there 👋 I am a Middle Frontend Developer with 2 years of experience including technical project management in a small team.
+  Hi there 👋 I am a Frontend Developer with 4 years of experience including technical project management in a small team.
 
 
 ## 🌐 Socials:
