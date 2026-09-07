@@ -46,18 +46,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexDroomer&show_icons=true&theme=default&hide_border=false&count_private=true" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexDroomer&theme=default&hide_border=false" alt="GitHub streak" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDroomer&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" height="165"/>
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AlexDroomer&icon=0&color=12" />
-  </a>
-</p>
+![Visitors](https://komarev.com/ghpvc/?username=AlexDroomer&color=blue)
